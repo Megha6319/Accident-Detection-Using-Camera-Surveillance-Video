@@ -30,3 +30,11 @@ We followed fastai course during the AI Saturdays. To train the model, we apply 
 To analyze if a video have an accident, with current coding, it is required to upload a video to a folder. Then video is split to frames and processed to homogenize the images to grayscale and downscale the width to 640 pixels.
 
 Then we load the trained model and process the images to generate a preliminar prediction. We normalize the preliminar prediction to remove false positives due to model accuracy, difficult light conditions in image or low quality, Once the preliminar prediction is normalized, we analyze it to determine if there is any accident in the video.
+
+
+Note: Dataset-Train_ac_1.tar , Dataset-Train_ac_2.tar ,Dataset-Train_noac_1.tar ,Dataset-Train_noac_2.tar ,Dataset-Train_ac_3.tar ,Dataset-Valid.tar.It results in (Sorry about that, but we can’t show files that are this big right now.).You can click on view raw and save it to your system.They contain Datasets.
+
+
+
+
+
